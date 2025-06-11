@@ -18,32 +18,10 @@ Want to inject some flavor into your everyday text chat? You're in luck! Discord
 
 ## Text Formatting
 
-<tbody>
-<tr>
-<td class="wysiwyg-text-align-left" style="width: 151px;"><em>Italics</em></td>
-<td class="wysiwyg-text-align-left" style="width: 178px;">*italics* <strong>or</strong> _italics_</td>
-<td class="wysiwyg-text-align-left" style="width: 153px;"><em><span class="wysiwyg-underline">Underline italics</span></em></td>
-<td class="wysiwyg-text-align-left" style="width: 191px;">__*underline italics*__</td>
-</tr>
-<tr>
-<td class="wysiwyg-text-align-left" style="width: 151px;"><strong>Bold</strong></td>
-<td class="wysiwyg-text-align-left" style="width: 178px;">**bold**</td>
-<td class="wysiwyg-text-align-left" style="width: 153px;"><span class="wysiwyg-underline"><strong>Underline bold</strong></span></td>
-<td class="wysiwyg-text-align-left" style="width: 191px;">__**underline bold**__</td>
-</tr>
-<tr>
-<td class="wysiwyg-text-align-left" style="width: 151px;"><em><strong>Bold Italics</strong></em></td>
-<td class="wysiwyg-text-align-left" style="width: 178px;">***bold italics***</td>
-<td class="wysiwyg-text-align-left" style="width: 153px;"><span class="wysiwyg-underline"><em><strong>underline bold italics</strong></em></span></td>
-<td class="wysiwyg-text-align-left" style="width: 191px;">__***underline bold italics***__</td>
-</tr>
-<tr>
-<td class="wysiwyg-text-align-left" style="width: 151px;"><span class="wysiwyg-underline">Underline</span></td>
-<td class="wysiwyg-text-align-left" style="width: 178px;">__underline__</td>
-<td class="wysiwyg-text-align-left" style="width: 153px;"><s>Strikethrough</s></td>
-<td class="wysiwyg-text-align-left" style="width: 191px;">&nbsp;~~Strikethrough~~</td>
-</tr>
-</tbody>
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
 
 Don't want to use markdown? You can slap a backslash in front of your statement, or put your message in a code block, and it'll escape the markdown formatting. You'll see those asterisks as you'd like!
 
