@@ -20,7 +20,7 @@ Want to inject some flavor into your everyday text chat? You're in luck! Discord
 
 | Italics | Bold | Bold Italics | Underline |
 |----------|----------|----------|----------|
-| *italics* or _italics_   | Data 1   | Data 2   |  |
+| *italics* or _italics_ | Data 1   | Data 2   |  |
 | Row 2    | Data 3   | Data 4   |  |
 
 Don't want to use markdown? You can slap a backslash in front of your statement, or put your message in a code block, and it'll escape the markdown formatting. You'll see those asterisks as you'd like!
