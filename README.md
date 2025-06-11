@@ -34,8 +34,6 @@ Want to inject some flavor into your everyday text chat? You're in luck! Discord
 <tr>
 <td class="wysiwyg-text-align-left" style="width: 151px;"><span class="wysiwyg-underline">Underline</span></td>
 <td class="wysiwyg-text-align-left" style="width: 178px;">__underline__</td>
-<td class="wysiwyg-text-align-left" style="width: 153px;"><s>Strikethrough</s></td>
-<td class="wysiwyg-text-align-left" style="width: 191px;">&nbsp;~~Strikethrough~~</td>
 </tr>
 </tbody>
 </table>
