@@ -224,4 +224,4 @@ yaml
 
 ![yaml](img/yaml.png)
 
-And you get the idea! Now you're a **Discord text markdown expert**. Get out there and highlight your statements!
+And you get the idea! Now you're a [Discord text markdown expert](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline). Get out there and highlight your statements!
