@@ -76,6 +76,8 @@ If you don't wish to embed a link, you can wrap the link with `<>` to remove the
 
 ### Unordered Lists
 
+<div class="tip-box">
+<strong>Note:</strong> Don’t forget to add a space between the list bullet (<code>-</code>, <code>*</code>, <code>1.</code>, etc) and your text!</div>
 You can create a bulleted list using either (-) or (\*) in the beginning of each line. You can indent your list by adding a space before (-) or (\*) at the beginning of each line.
 
 ![unordered lists](https://i.imgur.com/v6pTIhe.png)
