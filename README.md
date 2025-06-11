@@ -120,17 +120,17 @@ You can also use three backticks (\`\`\`) to create multiline code blocks, like 
 
 **\>** at the beginning of a line of text, creates a single-line block quote.
 
-![one line block quote](https://i.imgur.com/JJGECw1.png)
+![one line block quote](img/Blockquotes1.png)
 
 **\>\>\>** at the beginning of a line of text, creates a multi-line block quote. All text from `>>>` until the end of the message will be included in the quote.
 
-![multiline block quote](https://i.imgur.com/TL1Tfu8.png)
+![multiline block quote](img/Blockquotes2.png)
 
 ## Spoiler Tags
 
 You can manually tag spoilers by using the syntax `||` around your text or by typing `/spoiler` before your message. This is also negated by a code block.
 
-![spoiler tags](https://i.imgur.com/rWhCqMc.png)
+![spoiler tags](img/Spoilertags.png)
 
 ## Syntax Highlighting
 
