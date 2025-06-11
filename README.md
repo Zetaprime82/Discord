@@ -22,20 +22,14 @@ Want to inject some flavor into your everyday text chat? You're in luck! Discord
 <tr>
 <td class="wysiwyg-text-align-left" style="width: 151px;"><em>Italics</em></td>
 <td class="wysiwyg-text-align-left" style="width: 178px;">*italics* <strong>or</strong> _italics_</td>
-<td class="wysiwyg-text-align-left" style="width: 153px;"><em><span class="wysiwyg-underline">Underline italics</span></em></td>
-<td class="wysiwyg-text-align-left" style="width: 191px;">__*underline italics*__</td>
 </tr>
 <tr>
 <td class="wysiwyg-text-align-left" style="width: 151px;"><strong>Bold</strong></td>
 <td class="wysiwyg-text-align-left" style="width: 178px;">**bold**</td>
-<td class="wysiwyg-text-align-left" style="width: 153px;"><span class="wysiwyg-underline"><strong>Underline bold</strong></span></td>
-<td class="wysiwyg-text-align-left" style="width: 191px;">__**underline bold**__</td>
 </tr>
 <tr>
 <td class="wysiwyg-text-align-left" style="width: 151px;"><em><strong>Bold Italics</strong></em></td>
 <td class="wysiwyg-text-align-left" style="width: 178px;">***bold italics***</td>
-<td class="wysiwyg-text-align-left" style="width: 153px;"><span class="wysiwyg-underline"><em><strong>underline bold italics</strong></em></span></td>
-<td class="wysiwyg-text-align-left" style="width: 191px;">__***underline bold italics***__</td>
 </tr>
 <tr>
 <td class="wysiwyg-text-align-left" style="width: 151px;"><span class="wysiwyg-underline">Underline</span></td>
