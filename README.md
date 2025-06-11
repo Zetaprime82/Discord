@@ -136,45 +136,45 @@ You can manually tag spoilers by using the syntax `||` around your text or by ty
 
 If you really want to spruce up your code blocks, you can denote a specific language for **syntax highlighting**, by typing the name of the language you want the code block to expect right after the first three backticks beginning your code block. An example...
 
-![syntax highlighting](https://i.imgur.com/cT1lDcy.png)
+![syntax highlighting](img/Syntaxhighlighting.png)
 
 There are many different languages in place of Markdown that Discord's syntax highlighting support. Each different language has its own approach to highlight-able syntax. Note that you won't be able to view syntax highlighting on the mobile app.
 
 asciidoc
 
-![asciidoc](https://i.imgur.com/jT1UHko.png)
+![asciidoc](img/asciidoc.png)
 
 autohotkey
 
-![autohotkey](https://i.imgur.com/TKEKFok.png)
+![autohotkey](img/autohotkey.png)
 
 bash
 
-![bash](https://i.imgur.com/sMlKwsf.png)
+![bash](img/bash.png)
 
 coffeescript
 
-![coffeescript](https://i.imgur.com/nuqQSjY.png)
+![coffeescript](img/coffeescript.png)
 
 cpp (C++)
 
-![cpp](https://i.imgur.com/wwrzgrQ.png)
+![cpp](img/cpp(C++).png)
 
 cs (C#)
 
-![cs](https://i.imgur.com/6skWo5z.png)
+![cs](img/cs(C#).png)
 
 css
 
-![css](https://i.imgur.com/Nr7DsZA.png)
+![css](img/css.png)
 
 diff
 
-![diff](https://i.imgur.com/JfoaZ63.png)
+![diff](img/diff.png)
 
 fix
 
-![fix](https://i.imgur.com/v3Qw5tC.png)
+![fix](img/fix.png)
 
 glsl
 
