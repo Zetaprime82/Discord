@@ -178,7 +178,7 @@ fix
 
 glsl
 
-![glsl](https://i.imgur.com/AdUfLEM.png)
+![glsl](img/glsl.png)
 
 ini
 
