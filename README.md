@@ -61,7 +61,7 @@ To create a header, you need to include a specific number of the hash/pound sign
 
 ### Subtext
 
-Like Headers, you can add subtext to any chat message. To do so, add a (-# ) before the text you want to appear in the subtext. Don’t forget the space after # and before your message.
+<p>Like <strong>Headers</strong>, you can add subtext to any chat message. To do so, add a (<code>-# </code>) before the text you want to appear in the subtext. Don’t forget the space after # before your message. For example:&nbsp;</p>
 
 ![subtext](https://i.imgur.com/ADFapDa.png)
 
