@@ -57,7 +57,7 @@ Don't want to use markdown? You can slap a backslash in front of your statement,
 
 To create a header, you need to include a specific number of the hash/pound sign character (#). Use (#) for a big header, (##) for a smaller header, or (###) for an even smaller header as the first character(s) in a new line.
 
-![headers](https://i.imgur.com/9dhQ4SE.png)
+![headers](img/68747470733a2f2f692e696d6775722e636f6d2f396468513453452e706e67.png)
 
 ### Subtext
 
