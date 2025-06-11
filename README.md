@@ -17,12 +17,34 @@ Want to inject some flavor into your everyday text chat? You're in luck! Discord
 - [Syntax Highlighting](#syntax-highlighting)
 
 ## Text Formatting
-
-| Italics | Bold | Bold Italics | Underline |
-|----------|----------|----------|----------|
-| * * or _ _ | **bold** | Data 2   |  |
-| __*underline italics*__ | __**underline bold**__ | Data 4   |  |
-| Row 3    | Data 3   | Data 4   |  |
+<table style="height: 120px;">
+<tbody>
+<tr>
+<td class="wysiwyg-text-align-left" style="width: 151px;"><em>Italics</em></td>
+<td class="wysiwyg-text-align-left" style="width: 178px;">*italics* <strong>or</strong> _italics_</td>
+<td class="wysiwyg-text-align-left" style="width: 153px;"><em><span class="wysiwyg-underline">Underline italics</span></em></td>
+<td class="wysiwyg-text-align-left" style="width: 191px;">__*underline italics*__</td>
+</tr>
+<tr>
+<td class="wysiwyg-text-align-left" style="width: 151px;"><strong>Bold</strong></td>
+<td class="wysiwyg-text-align-left" style="width: 178px;">**bold**</td>
+<td class="wysiwyg-text-align-left" style="width: 153px;"><span class="wysiwyg-underline"><strong>Underline bold</strong></span></td>
+<td class="wysiwyg-text-align-left" style="width: 191px;">__**underline bold**__</td>
+</tr>
+<tr>
+<td class="wysiwyg-text-align-left" style="width: 151px;"><em><strong>Bold Italics</strong></em></td>
+<td class="wysiwyg-text-align-left" style="width: 178px;">***bold italics***</td>
+<td class="wysiwyg-text-align-left" style="width: 153px;"><span class="wysiwyg-underline"><em><strong>underline bold italics</strong></em></span></td>
+<td class="wysiwyg-text-align-left" style="width: 191px;">__***underline bold italics***__</td>
+</tr>
+<tr>
+<td class="wysiwyg-text-align-left" style="width: 151px;"><span class="wysiwyg-underline">Underline</span></td>
+<td class="wysiwyg-text-align-left" style="width: 178px;">__underline__</td>
+<td class="wysiwyg-text-align-left" style="width: 153px;"><s>Strikethrough</s></td>
+<td class="wysiwyg-text-align-left" style="width: 191px;">&nbsp;~~Strikethrough~~</td>
+</tr>
+</tbody>
+</table>
 
 Don't want to use markdown? You can slap a backslash in front of your statement, or put your message in a code block, and it'll escape the markdown formatting. You'll see those asterisks as you'd like!
 
