@@ -162,7 +162,7 @@ cpp (C++)
 
 cs (C#)
 
-![cs](img/cs(C#).png)
+![cs](img/cs.png)
 
 css
 
