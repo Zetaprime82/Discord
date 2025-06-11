@@ -20,7 +20,7 @@ Want to inject some flavor into your everyday text chat? You're in luck! Discord
 
 | Italics | Bold | Bold Italics | Underline |
 |----------|----------|----------|----------|
-| *italics* or _italics_ | **bold** | Data 2   |  |
+| * * or _ _ | **bold** | Data 2   |  |
 | __*underline italics*__ | __**underline bold**__ | Data 4   |  |
 | Row 3    | Data 3   | Data 4   |  |
 
