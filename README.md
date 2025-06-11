@@ -81,7 +81,7 @@ To create a header, you need to include a specific number of the hash/pound sign
 
 You can use masked links to make text a clickable or pressable hyperlink. To do so, you need to include the text you want displayed in brackets and then the URL in parentheses. For example:
 
-![masked links](himg/68747470733a2f2f692e696d6775722e636f6d2f333133775378382e706e67.png)
+![masked links](img/68747470733a2f2f692e696d6775722e636f6d2f333133775378382e706e67.png)
 
 If you don't wish to embed a link, you can wrap the link with `<>` to remove the embed for that specific link.
 
