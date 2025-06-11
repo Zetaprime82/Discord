@@ -182,46 +182,46 @@ glsl
 
 ini
 
-![ini](https://i.imgur.com/Pd8sbyQ.png)
+![ini](img/ini.png)
 
 json
 
-![json](https://i.imgur.com/Jkuipkp.png)
+![json](img/json.png)
 
 md (markdown)
 
-![md](https://i.imgur.com/wLunJuH.png)
+![md](img/md(markdown).png)
 
 ml
 
-![ml](https://i.imgur.com/BQFfCnj.png)
+![ml](img/ml.png)
 
 prolog
 
-![prolog](https://i.imgur.com/K3UyAdH.png)
+![prolog](img/prolog.png)
 
 ps
 
-![ps](https://i.imgur.com/XmKiby8.png)
+![ps](img/ps.png)
 
 py
 
-![py](https://i.imgur.com/G81EjVL.png)
+![py](img/py.png)
 
 tex
 
-![tex](https://i.imgur.com/rxL4JoI.png)
+![tex](img/tex.png)
 
 xl
 
-![xl](https://i.imgur.com/fGSFsKN.png)
+![xl](img/xl.png)
 
 xml
 
-![xml](https://i.imgur.com/UELn5Un.png)
+![xml](img/xml.png)
 
 yaml
 
-![yaml](https://i.imgur.com/aT0Nmjy.png)
+![yaml](img/yaml.png)
 
 And you get the idea! Now you're a **Discord text markdown expert**. Get out there and highlight your statements!
