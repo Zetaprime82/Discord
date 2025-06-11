@@ -66,7 +66,7 @@ Don't want to use markdown? You can slap a backslash in front of your statement,
 <div class="tip-box">
 <strong>Note:</strong> Don’t forget to add a space between the leading heading character (<code>#</code>, <code>##</code>, <code>###</code>) and your text!</div>
 
-To create a header, you need to include a specific number of the hash/pound sign character (#). Use (#) for a big header, (##) for a smaller header, or (###) for an even smaller header as the first character(s) in a new line.
+<p>To create a header you just need to include a specific number of the hash/pound sign character (<code>#</code>). Use (<code>#</code>) for a big header, (<code>##</code>) for a smaller header, or (<code>###</code>) for an even smaller header as the first character(s) in a new line to make a header. Here is an example of what each header type looks like.</p>
 
 ![headers](img/68747470733a2f2f692e696d6775722e636f6d2f396468513453452e706e67.png)
 
