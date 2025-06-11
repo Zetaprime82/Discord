@@ -112,7 +112,10 @@ You can also use three backticks (\`\`\`) to create multiline code blocks, like 
 
 ## Block Quotes
 
-The syntax to use Block Quotes is > or >>> followed by a space.
+<div class="tip-box">
+<img align="left" width="24" height="24" src="img/note.png"><strong>Note:</strong> Don’t forget to add a space between the leading &gt; and your text!</div>
+<br>
+<p>Another option is using block quotes. To use a block quote, you just need to put (<code>&gt;</code>) at the beginning of a line of text to create a single block quote. For example:</p>
 
 **\>** at the beginning of a line of text, creates a single-line block quote.
 
