@@ -68,7 +68,7 @@ Don't want to use markdown? You can slap a backslash in front of your statement,
 <br>
 <p>To create a header you just need to include a specific number of the hash/pound sign character (<code>#</code>). Use (<code>#</code>) for a big header, (<code>##</code>) for a smaller header, or (<code>###</code>) for an even smaller header as the first character(s) in a new line to make a header. Here is an example of what each header type looks like.</p>
 
-![headers](img/68747470733a2f2f692e696d6775722e636f6d2f396468513453452e706e67.png)
+![headers](img/Headers.png)
 
 ### Subtext
 
@@ -76,13 +76,13 @@ Don't want to use markdown? You can slap a backslash in front of your statement,
 <span style="color: #434343;" data-darkreader-inline-color="">Subtext works very similarly to Headers, so the (<code>-#</code>) must be at the very beginning of the line in order for it to work.</span>
 <br>
 
-![subtext](img/68747470733a2f2f692e696d6775722e636f6d2f414446617044612e706e67.png)
+![subtext](img/Subtext.png)
 
 ### Masked Links
 
 You can use masked links to make text a clickable or pressable hyperlink. To do so, you need to include the text you want displayed in brackets and then the URL in parentheses. For example:
 
-![masked links](img/68747470733a2f2f692e696d6775722e636f6d2f333133775378382e706e67.png)
+![masked links](img/Maskedlinks.png)
 
 If you don't wish to embed a link, you can wrap the link with `<>` to remove the embed for that specific link.
 
