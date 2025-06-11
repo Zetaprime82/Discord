@@ -74,6 +74,7 @@ Don't want to use markdown? You can slap a backslash in front of your statement,
 
 <p>Like <strong>Headers</strong>, you can add subtext to any chat message. To do so, add a (<code>-# </code>) before the text you want to appear in the subtext. Don’t forget the space after # before your message. For example:&nbsp;</p>
 <span style="color: #434343;" data-darkreader-inline-color="">Subtext works very similarly to Headers, so the (<code>-#</code>) must be at the very beginning of the line in order for it to work.</span>
+<br>
 
 ![subtext](img/68747470733a2f2f692e696d6775722e636f6d2f414446617044612e706e67.png)
 
