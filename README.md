@@ -226,5 +226,6 @@ yaml
 ![yaml](img/yaml.png)
 
 Now you're a [Discord text markdown expert](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline). Get out there and highlight your statements!
+<br>
 <img align="left" width="24" height="24" src="img/Notes.png"><div class="book-box">
 <strong>Note: </strong>Spoilers is another type of formatting too! Using the syntax || around your text will mark it as a spoiler. Please note, this is negated by a code block. You can learn more about Spoiler Tags <a href="https://support.discord.com/hc/en-us/articles/360022320632" target="_blank" rel="noopener noreferrer">here</a>!</div>
