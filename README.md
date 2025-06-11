@@ -93,23 +93,23 @@ If you don't wish to embed a link, you can wrap the link with `<>` to remove the
 <br>
 <p>You can create a bulleted list using either (<code>-</code>) or (<code>*)</code> in the beginning of each line. For example:</p>
 
-![unordered lists](https://i.imgur.com/v6pTIhe.png)
+![unordered lists](img/Unorderedlists.png)
 
 ### Ordered Lists
 
 To create an ordered list, add line items with numbers followed by periods. The numbers don't have to be in numerical order, but the list will always start with the first number. You can indent your list by adding a space before the number at the beginning of each line.
 
-![ordered lists](https://i.imgur.com/yZ0bgbl.png)
+![ordered lists](img/Orderedlists.png)
 
 ## Code Blocks
 
 Discord also supports code blocks as well.  You can make your own code blocks by wrapping your text in backticks (\`)
 
-![one line code blocks](https://i.imgur.com/UNxqhiy.png)
+![one line code blocks](img/Codeblocks1.png)
 
 You can also use three backticks (\`\`\`) to create multiline code blocks, like this beautifully written haiku.
 
-![multiline code blocks](https://i.imgur.com/XvNIZ2b.png)
+![multiline code blocks](img/Codeblocks2.png)
 
 ## Block Quotes
 
