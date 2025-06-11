@@ -18,7 +18,7 @@ Want to inject some flavor into your everyday text chat? You're in luck! Discord
 
 ## Text Formatting
 
-| Header 1 | Header 2 | Header 3 |
+| Italics | Bold | Bold Italics |
 |----------|----------|----------|
 | Row 1    | Data 1   | Data 2   |
 | Row 2    | Data 3   | Data 4   |
