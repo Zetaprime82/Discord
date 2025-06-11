@@ -1,5 +1,6 @@
 # Markdown Text 101
 
+<img align="center" width="400" height="81" src="img/Discord-logo.png">
 Want to inject some flavor into your everyday text chat? You're in luck! Discord uses Markdown, a simple plain text formatting system that'll help you **make your sentences stand out**. Here's how to do it! Just add a few characters before & after your desired text to change your text! I'll show you some examples...
 
 **What this guide covers:**
